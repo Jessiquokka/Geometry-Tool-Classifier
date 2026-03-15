@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <<link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Jessica Chen's Machine Learning Model</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="bubble">
+      <h1>Jessica's Machine Learning, Geometry Tool Classifier 📓</h1>
+      <p>
+        I always had trouble remembering to bring everything that I needed for math class. My ML model is used to classify the essentials everyone should bring to a geometry class, which includes of a protractor, a calculator, and, of course, a pencil!
+      </p>
+
+      <button type="button" onclick="init()" id="start">BEGIN</button>
+
+      <div id="webcam-container"></div>
+      <!-- Camera for testing data -->
+      <div id="label-container"></div>
+      <!-- Show the predicted label -->
+    </div>
+
+    <div class="bubble">
+      <h1>About the Creator</h1>
+      <p>Hello! My name is Jessica Chen, and I am currently a high school freshman in California. I am really interested in getting more involved with the world of technology and becoming more proficient in it. STEM seems like a very fun field to learn more about, because it is basically the root of our everyday life. </p>
+      <img 
+      src="kwkimg.png"
+      width="225px"
+      />
+      <img
+      src="kwkimg2.jpg"
+      width="325px"
+      />
+      <img
+      src="kwkimg3.jpeg"
+      width="335px"
+      />
+      <img
+      src=kwkpdf4.jpg
+      width="230px"
+      />
+      <h1>What Is to Come</h1>
+      <p> Through the Kode with Klossy CODE-A-BRATION event, I was introduced to the fundamentals of HTML, CSS, JavaScript, UI/UX, 
+        which I plan to expand on and use in the future to build more projects with more impact. 
+        I laid down my foundation for the domain of artificial intelligence and machine learning, recognizing what they are, what they are used for, which I want to use to pursue my curiosity in this technical field.   </p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
