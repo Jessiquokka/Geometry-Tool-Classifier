@@ -13,8 +13,8 @@ I always had trouble remembering to bring everything that I needed for math clas
 
 - Took 3 commonly-used geometry tools and built classifier with guaranteed 85-100% accuracy on test data
 - Curated and trained a 66-image dataset model via Teachable Machine across 3 seperate categories of tools
+- Iteratively improved ML model accuracy across multiple versions by differentiating visually similar tools
 - Deployed a fully interactive, browser-based web app using HTML, CSS, and Javascript with no installation needed
-- 
 
 ## Project Showcase Prep
 
