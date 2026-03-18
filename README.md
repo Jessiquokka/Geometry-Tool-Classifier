@@ -1,6 +1,6 @@
-# Your Passion Project Guide
+# Machine Learning, Geometry Tool Image Classifier
 
-Welcome to your Passion Project! In this project, you'll combine the power of Google's Teachable Machine with web design to create an interactive application that recognizes images based on your custom-trained model. This is your chance to explore something you're passionate about while learning about AI and web development!
+I always had trouble remembering to bring everything that I needed for math class. I would either forget one thing or the other, and it would leave me looking for alternatives. I modified a template model and pitched an image classifier that has been trained to recognize protractors, calculators (including the one in your phone), and pencils (both mechanical and traditional), so these essential tools never escape your mind when packing your bag ever again.
 
 ## Getting Started
 
