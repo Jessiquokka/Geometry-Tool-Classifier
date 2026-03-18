@@ -1,22 +1,19 @@
 # Machine Learning, Geometry Tool Image Classifier
 
+## Overview
 I always had trouble remembering to bring everything that I needed for math class. I would either forget one thing or the other, and it would leave me looking for alternatives. I modified a template model and pitched an image classifier that has been trained to recognize protractors, calculators (including the one in your phone), and pencils (both mechanical and traditional), so these essential tools never escape your mind when packing your bag ever again.
 
-## Getting Started
+## How to Run
+1. Press the `BEGIN` button in the Preview panel to see your model in action!
+2. Hold up your desired item to the camera, and watch as the image classifier identifies the item w/ 85-100% accuracy in the number panel 
 
-Press the `Start!` button in the Preview panel to see your model in action! The model included in the template has been trained to recognize mugs, pens, and glasses. Note: It may take a few seconds to load. Press the refresh button in the Preview panel to close the camera.
+   Note: It may take a few seconds to load. Press the refresh button in the Preview panel to close the camera.
 
-## Passion Project Checklist
+## Impact/Results
 
-- [ ] Fork the Passion Project template
-- [ ] Decide on your Passion Project idea
-- [ ] Train and test your model until you're satisfied with the results 
-- [ ] Export your trained model and add the link to the `script.js` file
-- [ ] Update the HTML to reflect your project idea  
-- [ ] Enhance the CSS for styling and presentation
-- [ ] *Choose a way to level up your project from the [How-To Guide](https://kodewithklossy.notion.site/Participant-How-To-Guide-1142fd98aeb4806ca0b6dd68fa211acb)*
-- [ ] Complete the Project Showcase Prep
-- [ ] Showcase your project
+- Classified 3 kinds of geometry tools that achieves a guaranteed 85-100% accuracy on test data
+- Curated and trained a 66-image dataset model via Teachable Machine across 3 seperate categories of tools
+- Deployed a fully interactive, browser-based web app using HTML, CSS, and Javascript with no installation needed
 
 ## Project Showcase Prep
 
